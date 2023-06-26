@@ -679,7 +679,7 @@ footer {
     display: flex;
     align-items: center;
     min-height: 5vh;
-    background:url(../p/bg1.jpg) no-repeat;
+    background:url(bg1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 0% 0% 0% 0%;
